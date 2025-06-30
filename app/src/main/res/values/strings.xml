@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Info Kesehatan</string>
+    <string name="placeholder_search">search</string>
+    <string name="ab1_inversions">inversions</string>
+    <string name="fc2_nature_meditations">meditation</string>
+    <string name="ab2_quick_yoga">yoga</string>
+    <string name="ab3_streching">streching\n</string>
+    <string name="ab4_tabata">tabata</string>
+    <string name="ab5_hiit">hiit</string>
+    <string name="ab6_pre_natal_yoga">natalyoga</string>
+    <string name="fc1_short_mantras">mantras</string>
+    <string name="fc3_stress_and_anxiety">anxiety</string>
+    <string name="fc4_self_massage">massage</string>
+    <string name="fc5_overwhelmed">overwhelmed</string>
+    <string name="fc6_nightly_wind_down">winddown</string>
+    <string name="align_your_body">body</string>
+    <string name="favorite_collections">collections</string>
+    <string name="bottom_navigation_home">home</string>
+    <string name="bottom_navigation_profile">profile</string>
+    <string name="Kota">City</string>
+    <string name="Auckland">Auckland</string>
+    <string name="Rotorua">Rotorua</string>
+    <string name="Queenstown">Queenstown</string>
+    <string name="Napier">Napier</string>
+    <string name="Christchurch">Christchurch</string>
+    <string name="Wellington">Wellington</string>
+    <string name="AucklandW">Auckland</string>
+    <string name="RotoruaW">Rotorua</string>
+    <string name="QueenstownW">Queenstown</string>
+    <string name="NapierW">Napier</string>
+    <string name="ChristchurchW">Christchurch</string>
+    <string name="WellingtonW">Wellington</string>
+</resources>
